@@ -1,0 +1,8 @@
+{
+    "case_id": "ENNORE_2017",
+    "collision_time_ist": "2017-01-28T03:50:00",
+    "satellite_observation_time_ist": "2017-01-29T06:01:00",
+    "elapsed_hours": 26.18,
+    "trajectory_type": "backward",
+    "status": "corrected_historical_timeline"
+}

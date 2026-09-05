@@ -1,0 +1,12 @@
+{
+    "case_id": "ENNORE_2017",
+    "location": "Ennore, Chennai, India",
+    "incident_date": "2017-01-28",
+    "event": "Vessel collision and oil spill",
+    "vessels": [
+        "BW Maple",
+        "MT Dawn Kanchipuram"
+    ],
+    "satellite": "Sentinel-1A",
+    "purpose": "Historical case reconstruction and validation"
+}

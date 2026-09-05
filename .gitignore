@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+*.env
+secrets/
+*token*
+*secret*
+credentials.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large satellite data
+data/satellite/raw/
+*.SAFE/
+*.tiff
+*.tif
+*.nc
+
+# Generated outputs
+outputs/
+*.log
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/

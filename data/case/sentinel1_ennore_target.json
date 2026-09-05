@@ -1,0 +1,15 @@
+{
+    "mission": "Sentinel-1A",
+    "acquisition_date": "2017-01-29",
+    "observation_time_ist": "06:00",
+    "location": "Ennore, Chennai, India",
+    "latitude": 13.2282,
+    "longitude": 80.3633,
+    "mode": "IW",
+    "polarizations": [
+        "VV",
+        "VH"
+    ],
+    "product_preference": "GRD",
+    "purpose": "Oil-spill detection and historical validation"
+}
